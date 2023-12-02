@@ -1,4 +1,4 @@
-%prompt = 'Enter an integer: ';
+prompt = '';
 D = input(prompt);
 try
     ans = D / 100;
