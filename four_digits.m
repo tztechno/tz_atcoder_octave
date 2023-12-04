@@ -1,4 +1,4 @@
-S = strtrim(input("s"));
+S = strtrim(input("","s"));
 n = length(S);
 
 if n < 4
