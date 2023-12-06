@@ -1,9 +1,10 @@
 N = input('');
-if (N <= 125) {
+result = 0;
+if (N <= 125)
     result = 4;
-} else if (N <= 211) {
+elseif (N <= 211)
     result = 6;
-} else {
+else
     result = 8;
-}
-printf('%d\n', result);
+end
+fprintf('%d\n', result);
