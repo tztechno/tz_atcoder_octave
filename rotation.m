@@ -2,9 +2,10 @@
 #rotation
 #input= 5
 
-N = input('');
-if N%2==0
-  disp('White');
+N = str2double(input('', 's'));
+
+if rem(N,2) == 0
+    disp('White');
 else
-  disp('Black');
+    disp('Black');
 end
