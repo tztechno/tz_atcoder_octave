@@ -2,7 +2,8 @@
 
 ---
 ```
-(base) shun_ishii@shunnoMacBook-puro ~ % brew info octave
+% brew info octave
+
 ==> octave: stable 9.2.0 (bottled), HEAD
 High-level interpreted language for numerical computing
 https://www.gnu.org/software/octave/index.html
@@ -21,8 +22,9 @@ Required: arpack ✔, epstool ✔, fftw ✔, fig2dev ✔, fltk ✔, fontconfig �
 install: 2,852 (30 days), 9,027 (90 days), 39,550 (365 days)
 install-on-request: 2,751 (30 days), 8,616 (90 days), 37,233 (365 days)
 build-error: 0 (30 days)
-(base) shun_ishii@shunnoMacBook-puro ~ % 
-brew uninstall octave
+
+% brew uninstall octave
+
 ```
 ---
 
