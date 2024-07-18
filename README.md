@@ -56,7 +56,7 @@ build-error: 0 (30 days)
 ```
 ---
 ```
-
+A = strcat(A," Eve");
 ```
 ---
 ```
