@@ -52,6 +52,17 @@ build-error: 0 (30 days)
 ```
 ---
 ```
+b = input("", "s"); 
+if b == 'A'
+    ans = 'T';
+elseif b == 'T'
+    ans = 'A';
+elseif b == 'C'
+    ans = 'G';
+elseif b == 'G'
+    ans = 'C';
+end
+disp(ans);
 
 ```
 ---
